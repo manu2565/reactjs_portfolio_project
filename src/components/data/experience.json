@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "role": "Python Developer",
+    "organisation": "internshala",
+    "startDate": "Dec, 2023",
+    "endDate": "Feb 2024",
+    "location": "Virtual Internship",
+    "experiences": [
+      "Worked on Projects",
+      "Worked with the Internshala Teams"
+    ],
+    "imageSrc": "company/Internshala.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Machine Learning",
+    "organisation": "Internship Studio",
+    "startDate": "Aug, 2023",
+    "endDate": "oct, 2023",
+    "location": "Noida, Up",
+    "experiences": [
+      "Worked on Machine Learning Project",
+      "Worked on  Machine Learning Project features"
+    ],
+    "imageSrc": "company/images.png"
+  },
+
+  {
+    "id": 2,
+    "role": "Front-end",
+    "organisation": "CodeAlpha",
+    "startDate": "Nov, 2023",
+    "endDate": "Jan,2023",
+    "location": "Virtual Internship",
+    "experiences": [
+      "Worked on Temperature Convertor",
+      "Worked on HTML,CSS and JavaScript"
+    ],
+    "imageSrc": "company/codealphalogo.png"
+  }
+  
+]
